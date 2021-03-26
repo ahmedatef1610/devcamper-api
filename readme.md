@@ -1,5 +1,4 @@
 # DevCamper API
-http://157.230.102.170/
 
 > Backend API for DevCamper application, which is a bootcamp directory website
 
